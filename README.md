@@ -1,2 +1,2 @@
-# tryhackme-journey
-[undefined segfaults usually cause NullPointerException if you don't unserstand why None is different from null and nullptr]
+# [TryHackMe](https://tryhackme.com/p/0x0FACE)
+to be continued...
